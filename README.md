@@ -1,4 +1,4 @@
-## Hey There! 👋
+## Hello There! 👋
 
 - Olá! Eu sou o Raphael Vinicius, mas pode me chamar de Rafah
 - 📖Atualmente estou cursando Ciencia da Computação na Universidade Tiradentes(UNIT). <img align="right" src="https://i.gifer.com/4WD2.gif" height="110px" width="110px"> 
