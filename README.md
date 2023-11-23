@@ -1,10 +1,10 @@
 ## Hello There! 👋
-
-- Olá! Eu sou o Raphael Vinicius, mas pode me chamar de Rafah
+ 
+- Olá! Eu sou o Raphael Vinicius, mas pode me chamar de Rafah <img align="right" src="https://64.media.tumblr.com/6e2fb5e310185a7818af2a5ca5042d85/tumblr_nlqwf1cEoW1qf2huro1_500.gif" height="230px" width="410px"> 
 - 📖Atualmente estou cursando Ciencia da Computação na Universidade Tiradentes(UNIT). <img align="right" src="https://i.gifer.com/4WD2.gif" height="110px" width="110px"> 
 - 🎓Também estou a caminho de ser um programador full stack.
 - 📊Atualmente estou aprendendo sobre Php e Cloud.
-- 👩🏼‍💻Estou à procura de emprego.  
+- 👩🏼‍💻Estou à procura de emprego.
 - 📫Como chegar até mim: 
 <a href="mailto:raphaeluchoas89@gmail.com">
   <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" height="20px">
