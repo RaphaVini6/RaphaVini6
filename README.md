@@ -4,7 +4,6 @@
 - 📖Atualmente estou cursando Ciencia da Computação na Universidade Tiradentes(UNIT). <img align="right" src="https://i.gifer.com/4WD2.gif" height="110px" width="110px"> 
 - 🎓Também estou a caminho de ser um programador full stack.
 - 📊Atualmente estou aprendendo sobre Php e Cloud.
-- 👩🏼‍💻Estou à procura de emprego.
 - 📫Como chegar até mim: 
 <a href="mailto:raphaeluchoas89@gmail.com">
   <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" height="20px">
