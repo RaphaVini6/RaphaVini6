@@ -3,7 +3,7 @@
 - Olá! Eu sou o Raphael Vinicius, mas pode me chamar de Rafah <img align="right" src="https://i.pinimg.com/originals/de/d1/4c/ded14c6639e251900996975c914c150a.gif" height="180px" width="200px"> 
 - 📖Atualmente estou cursando Ciencia da Computação na Universidade Tiradentes(UNIT). <img align="right" src="https://i.gifer.com/4WD2.gif" height="210px" width="110px"> 
 - 🎓Sou Desenvolvedor Front-end mas estou a caminho de ser um programador full stack.
-- 📊Estou aprendendo mais sobre o front e banco de dados.
+- 📊Estou me aprimorando no Front-end e aprendendo mais sobre Banco de dados.
 - 📫Como chegar até mim: 
 <a href="mailto:raphaeluchoas89@gmail.com">
   <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" height="20px">
