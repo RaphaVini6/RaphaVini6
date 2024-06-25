@@ -1,7 +1,7 @@
 ## Hello There! 👋
  
 - Olá! Eu sou o Raphael Vinicius, mas pode me chamar de Rafah <img align="right" src="https://i.pinimg.com/originals/de/d1/4c/ded14c6639e251900996975c914c150a.gif" height="200px" width="200px"> 
-- 📖Atualmente estou cursando Ciencia da Computação na Universidade Tiradentes(UNIT). <img align="right" src="https://i.gifer.com/4WD2.gif" height="110px" width="110px"> 
+- 📖Atualmente estou cursando Ciencia da Computação na Universidade Tiradentes(UNIT). <img align="right" src="https://i.gifer.com/4WD2.gif" height="210px" width="110px"> 
 - 🎓Também estou a caminho de ser um programador full stack.
 - 📊Atualmente estou aprendendo sobre Php e Cloud.
 - 📫Como chegar até mim: 
