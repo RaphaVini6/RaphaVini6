@@ -2,8 +2,8 @@
  
 - Olá! Eu sou o Raphael Vinicius, mas pode me chamar de Rafah <img align="right" src="https://i.pinimg.com/originals/de/d1/4c/ded14c6639e251900996975c914c150a.gif" height="180px" width="200px"> 
 - 📖Atualmente estou cursando Ciencia da Computação na Universidade Tiradentes(UNIT). <img align="right" src="https://i.gifer.com/4WD2.gif" height="210px" width="110px"> 
-- 🎓Também estou a caminho de ser um programador full stack.
-- 📊Atualmente estou aprendendo sobre Php e Cloud.
+- 🎓Sou Desenvolvedor Front-end mas estou a caminho de ser um programador full stack.
+- 📊Estou aprendendo mais sobre o front e banco de dados.
 - 📫Como chegar até mim: 
 <a href="mailto:raphaeluchoas89@gmail.com">
   <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" height="20px">
@@ -14,8 +14,7 @@
 <div>
   <a href="https://github.com/RaphaVini6">
     
-  <img width="45%" src="https://github-readme-stats.vercel.app/api?username=RaphaVini6&show_icons=true&theme=radical&include_all_commits=true&count_private=true">
-  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RaphaVini6&layout=compact&langs_count=16&theme=radical"/><img width="45%" src="https://github-readme-stats.vercel.app/api?username=RaphaVini6&show_icons=true&theme=radical&include_all_commits=true&count_private=true">
+  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RaphaVini6&layout=compact&langs_count=16&theme=radical"/><img width="45%" src="https://github-readme-stats.vercel.app/api?username=RaphaVini6&show_icons=true&theme=radical&include_all_commits=true&count_private=true">
 
 
 <div style="display: inline_block"><br>
