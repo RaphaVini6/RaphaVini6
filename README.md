@@ -14,7 +14,7 @@
 <div>
   <a href="https://github.com/RaphaVini6">
     
-  <img width="20%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RaphaVini6&layout=compact&langs_count=16&theme=radical"/><img width="60%" src="https://github-readme-stats.vercel.app/api?username=RaphaVini6&show_icons=true&theme=radical&include_all_commits=true&count_private=true">
+  <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RaphaVini6&layout=compact&langs_count=16&theme=radical"/><img width="40%" src="https://github-readme-stats.vercel.app/api?username=RaphaVini6&show_icons=true&theme=radical&include_all_commits=true&count_private=true">
 
 
 <div style="display: inline_block"><br>
