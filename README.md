@@ -2,7 +2,8 @@
  
 Hello! I am Raphael Vinicius, but you can call me Rafah <img align="right" src="https://i.pinimg.com/originals/de/d1/4c/ded14c6639e251900996975c914c150a.gif" height="180px" width="200px">
 
- * 📖 I am currently studying Computer Science at Tiradentes University (UNIT). <img align="right" src="https://i.gifer.com/4WD2.gif" height="210px" width="110px">
+ * 📖 I am currently studying Computer Science at Tiradentes University (UNIT).
+ * 
  * 🎓 I am a Front-end Developer but on my way to becoming a full-stack programmer.
  * 📊 I am improving my Front-end skills and learning more about databases.
  * 📫 How to reach me:
