@@ -2,10 +2,9 @@
  
 Hello! I am Raphael Vinicius, but you can call me Rafah <img align="right" src="https://i.pinimg.com/originals/de/d1/4c/ded14c6639e251900996975c914c150a.gif" height="180px" width="200px">
 
- * 📖 I am currently studying Computer Science at Tiradentes University (UNIT).
- * 🎓 I am a Front-end Developer but on my way to becoming a full-stack programmer.
- * 📊 I am improving my Front-end skills and learning more about databases.
- * 📫 How to reach me:
+ * 🎓 I am currently studying Computer Science at Tiradentes University (UNIT).
+ * 📊 I'm improving myself to become a full-stack developer.
+ * 📫 How to contact me:
 <a href="mailto:raphaeluchoas89@gmail.com">
   <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" height="20px">
   </a>
@@ -21,7 +20,7 @@ Hello! I am Raphael Vinicius, but you can call me Rafah <img align="right" src="
 <div style="display: inline_block"><br>
     <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,py,java,php,laravel,html,css,js,nodejs,react,ts,mysql,figma" />
+    <img src="https://skillicons.dev/icons?i=java,py,php,laravel,html,css,js,nodejs,react,ts,vue,mysql,figma,postgres,tailwind,amazonwebservices,bots," />
   </a>
 </p>
 </div>
