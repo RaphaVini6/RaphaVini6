@@ -1,6 +1,6 @@
 ## Hello There! 👋
  
-Hello! I am Raphael Vinicius, but you can call me Rafah <img align="right" src="https://i.pinimg.com/originals/de/d1/4c/ded14c6639e251900996975c914c150a.gif" height="180px" width="200px">
+Hello! I am Raphael Vinicius, but you can call me Rafah
 
  * 🎓 I am currently studying Computer Science at Tiradentes University (UNIT).
  * 📊 I'm improving myself to become a full-stack developer.
@@ -20,7 +20,7 @@ Hello! I am Raphael Vinicius, but you can call me Rafah <img align="right" src="
 <div style="display: inline_block"><br>
     <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,py,php,laravel,html,css,js,nodejs,react,ts,vue,mysql,figma,postgres,tailwind,amazonwebservices,bots," />
+    <img src="https://skillicons.dev/icons?i=java,py,php,laravel,js,nodejs,react,ts,vue,mysql,figma,postgres,docker,amazonwebservices" />
   </a>
 </p>
 </div>
